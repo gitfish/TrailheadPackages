@@ -1,0 +1,44 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Energy_Audit__c",
+                "referenceId": "Energy_Audit__cRef1"
+            },
+            "Name": "GenePoint 5-year review",
+            "Average_Annual_Electric_Cost__c": 1.56,
+            "Annual_Energy_Usage_kWh__c": 21,
+            "Account__c": "@AccountRef4"
+        },
+        {
+            "attributes": {
+                "type": "Energy_Audit__c",
+                "referenceId": "Energy_Audit__cRef2"
+            },
+            "Name": "sForce Los Altos Hills campus",
+            "Average_Annual_Electric_Cost__c": 1.77,
+            "Annual_Energy_Usage_kWh__c": 25,
+            "Account__c": "@AccountRef5"
+        },
+        {
+            "attributes": {
+                "type": "Energy_Audit__c",
+                "referenceId": "Energy_Audit__cRef3"
+            },
+            "Name": "Burlington evaluation",
+            "Average_Annual_Electric_Cost__c": 1.86,
+            "Annual_Energy_Usage_kWh__c": 23,
+            "Account__c": "@AccountRef6"
+        },
+        {
+            "attributes": {
+                "type": "Energy_Audit__c",
+                "referenceId": "Energy_Audit__cRef4"
+            },
+            "Name": "UA Spring assessment",
+            "Average_Annual_Electric_Cost__c": 2.19,
+            "Annual_Energy_Usage_kWh__c": 30,
+            "Account__c": "@AccountRef7"
+        }
+    ]
+}
