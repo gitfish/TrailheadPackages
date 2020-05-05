@@ -1,272 +1,350 @@
 [
     [
-        "C:\\workspace\\salesforce\\LightningExperienceCustomisation\\force-app",
+        "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation\\force-app",
         {
-            "state": "n",
-            "sourcePath": "C:\\workspace\\salesforce\\LightningExperienceCustomisation\\force-app",
+            "sourcePath": "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation\\force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1588645501989,
             "changeTime": 1588645501989,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
     ],
     [
-        "C:\\workspace\\salesforce\\LightningExperienceCustomisation\\force-app\\main",
+        "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation\\force-app\\main",
         {
-            "state": "n",
-            "sourcePath": "C:\\workspace\\salesforce\\LightningExperienceCustomisation\\force-app\\main",
+            "sourcePath": "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation\\force-app\\main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1588645501990,
             "changeTime": 1588645501990,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
     ],
     [
-        "C:\\workspace\\salesforce\\LightningExperienceCustomisation\\force-app\\main\\default",
+        "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation\\force-app\\main\\default",
         {
-            "state": "u",
-            "sourcePath": "C:\\workspace\\salesforce\\LightningExperienceCustomisation\\force-app\\main\\default",
+            "sourcePath": "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1588646374639,
             "changeTime": 1588646374639,
-            "contentHash": "ceb8794726dcd10a8d4f0e7d274189302b2dfe71"
+            "contentHash": "ceb8794726dcd10a8d4f0e7d274189302b2dfe71",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
-        "C:\\workspace\\salesforce\\LightningExperienceCustomisation\\force-app\\main\\default\\aura",
+        "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation\\force-app\\main\\default\\aura",
         {
-            "state": "n",
-            "sourcePath": "C:\\workspace\\salesforce\\LightningExperienceCustomisation\\force-app\\main\\default\\aura",
+            "sourcePath": "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1588645501990,
             "changeTime": 1588645501990,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
     ],
     [
-        "C:\\workspace\\salesforce\\LightningExperienceCustomisation\\force-app\\main\\default\\lwc",
+        "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation\\force-app\\main\\default\\lwc",
         {
-            "state": "n",
-            "sourcePath": "C:\\workspace\\salesforce\\LightningExperienceCustomisation\\force-app\\main\\default\\lwc",
+            "sourcePath": "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation\\force-app\\main\\default\\lwc",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1588645611745,
             "changeTime": 1588645611745,
             "contentHash": "56f2d335ffa27c20b4ea310cf0214fa96f325894",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
     ],
     [
-        "C:\\workspace\\salesforce\\LightningExperienceCustomisation",
+        "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation",
         {
-            "state": "n",
-            "sourcePath": "C:\\workspace\\salesforce\\LightningExperienceCustomisation",
+            "sourcePath": "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1588645995781,
             "changeTime": 1588645995781,
             "contentHash": "c71e0d0353f61b4f15c3889a6c9176e373daa9ee",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": true,
             "isArtifactRoot": false
         }
     ],
     [
-        "C:\\workspace\\salesforce\\LightningExperienceCustomisation\\force-app\\main\\default\\objects\\Energy_Audit__c\\Energy_Audit__c.object-meta.xml",
+        "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation\\force-app\\main\\default\\objects\\Energy_Audit__c\\Energy_Audit__c.object-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "C:\\workspace\\salesforce\\LightningExperienceCustomisation\\force-app\\main\\default\\objects\\Energy_Audit__c\\Energy_Audit__c.object-meta.xml",
+            "sourcePath": "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation\\force-app\\main\\default\\objects\\Energy_Audit__c\\Energy_Audit__c.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2166,
             "modifiedTime": 1588646374608,
             "changeTime": 1588646374608,
-            "contentHash": "65008c75e60ffa709d1cbd02d7c4bcc3d894d632"
+            "contentHash": "65008c75e60ffa709d1cbd02d7c4bcc3d894d632",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
-        "C:\\workspace\\salesforce\\LightningExperienceCustomisation\\force-app\\main\\default\\objects\\Energy_Audit__c\\listViews\\All.listView-meta.xml",
+        "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation\\force-app\\main\\default\\objects\\Energy_Audit__c\\listViews\\All.listView-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "C:\\workspace\\salesforce\\LightningExperienceCustomisation\\force-app\\main\\default\\objects\\Energy_Audit__c\\listViews\\All.listView-meta.xml",
+            "sourcePath": "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation\\force-app\\main\\default\\objects\\Energy_Audit__c\\listViews\\All.listView-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 204,
             "modifiedTime": 1588646374610,
             "changeTime": 1588646374610,
-            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd"
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
-        "C:\\workspace\\salesforce\\LightningExperienceCustomisation\\force-app\\main\\default\\layouts\\Energy_Audit__c-Energy Audit Layout.layout-meta.xml",
+        "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation\\force-app\\main\\default\\layouts\\Energy_Audit__c-Energy Audit Layout.layout-meta.xml",
         {
             "state": "u",
-            "sourcePath": "C:\\workspace\\salesforce\\LightningExperienceCustomisation\\force-app\\main\\default\\layouts\\Energy_Audit__c-Energy Audit Layout.layout-meta.xml",
+            "sourcePath": "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation\\force-app\\main\\default\\layouts\\Energy_Audit__c-Energy Audit Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 1947,
-            "modifiedTime": 1588646374625,
-            "changeTime": 1588646374625,
-            "contentHash": "11d783040f4136795b5cfb29705ebffa45e29dff"
+            "size": 2698,
+            "modifiedTime": 1588674313899,
+            "changeTime": 1588674313899,
+            "contentHash": "3cb1632c3be8bf74ebcb96409f3a116c7cb592a6"
         }
     ],
     [
-        "C:\\workspace\\salesforce\\LightningExperienceCustomisation\\force-app\\main\\default\\tabs\\Energy_Audit__c.tab-meta.xml",
+        "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation\\force-app\\main\\default\\tabs\\Energy_Audit__c.tab-meta.xml",
         {
-            "state": "u",
-            "sourcePath": "C:\\workspace\\salesforce\\LightningExperienceCustomisation\\force-app\\main\\default\\tabs\\Energy_Audit__c.tab-meta.xml",
+            "sourcePath": "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation\\force-app\\main\\default\\tabs\\Energy_Audit__c.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 283,
             "modifiedTime": 1588646374632,
             "changeTime": 1588646374632,
-            "contentHash": "46afadab9f9066f53edd99bf26b36ec7e9bedb44"
+            "contentHash": "46afadab9f9066f53edd99bf26b36ec7e9bedb44",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
-        "C:\\workspace\\salesforce\\LightningExperienceCustomisation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
         {
             "state": "u",
-            "sourcePath": "C:\\workspace\\salesforce\\LightningExperienceCustomisation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "sourcePath": "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 4675,
-            "modifiedTime": 1588646374643,
-            "changeTime": 1588646374643,
-            "contentHash": "c13cad44e8270b3bf5ba0c85699ad24e396b4d47"
+            "size": 5022,
+            "modifiedTime": 1588674313905,
+            "changeTime": 1588674313905,
+            "contentHash": "040a975a5cc82c46b6f1136f683c8998f3ccfda2"
         }
     ],
     [
-        "C:\\workspace\\salesforce\\LightningExperienceCustomisation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
         {
             "state": "u",
-            "sourcePath": "C:\\workspace\\salesforce\\LightningExperienceCustomisation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "sourcePath": "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 4675,
-            "modifiedTime": 1588646374652,
-            "changeTime": 1588646374652,
-            "contentHash": "c13cad44e8270b3bf5ba0c85699ad24e396b4d47"
+            "size": 5022,
+            "modifiedTime": 1588674313913,
+            "changeTime": 1588674313913,
+            "contentHash": "040a975a5cc82c46b6f1136f683c8998f3ccfda2"
         }
     ],
     [
-        "C:\\workspace\\salesforce\\LightningExperienceCustomisation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
             "state": "u",
-            "sourcePath": "C:\\workspace\\salesforce\\LightningExperienceCustomisation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "sourcePath": "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 20220,
-            "modifiedTime": 1588646374668,
-            "changeTime": 1588646374668,
-            "contentHash": "12a25ceead864841a07be8180144e2d8df03c79e"
+            "size": 20567,
+            "modifiedTime": 1588674313945,
+            "changeTime": 1588674313945,
+            "contentHash": "ee134df338ce412b35fa4eed2175b623b89f7a4d"
         }
     ],
     [
-        "C:\\workspace\\salesforce\\LightningExperienceCustomisation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
         {
             "state": "u",
-            "sourcePath": "C:\\workspace\\salesforce\\LightningExperienceCustomisation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "sourcePath": "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 5013,
-            "modifiedTime": 1588646374673,
-            "changeTime": 1588646374673,
-            "contentHash": "db610db52f875bb7af12dd80856c8207d7eb0ed7"
+            "size": 5360,
+            "modifiedTime": 1588674313952,
+            "changeTime": 1588674313952,
+            "contentHash": "5170e45f328c0cb3fac6efb5d0438310ff309bf0"
         }
     ],
     [
-        "C:\\workspace\\salesforce\\LightningExperienceCustomisation\\force-app\\main\\default\\objects\\Energy_Audit__c",
+        "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation\\force-app\\main\\default\\objects\\Energy_Audit__c",
         {
             "state": "u",
-            "sourcePath": "C:\\workspace\\salesforce\\LightningExperienceCustomisation\\force-app\\main\\default\\objects\\Energy_Audit__c",
+            "sourcePath": "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation\\force-app\\main\\default\\objects\\Energy_Audit__c",
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1588646374608,
-            "changeTime": 1588646374608,
-            "contentHash": "10eabd258a593d7bed8721ba15fca186eb9c2617"
+            "modifiedTime": 1588674313884,
+            "changeTime": 1588674313884,
+            "contentHash": "3b517dd3fa20f389e7e3c9da4e6abd798498b6a4"
         }
     ],
     [
-        "C:\\workspace\\salesforce\\LightningExperienceCustomisation\\force-app\\main\\default\\objects",
+        "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation\\force-app\\main\\default\\objects",
         {
-            "state": "u",
-            "sourcePath": "C:\\workspace\\salesforce\\LightningExperienceCustomisation\\force-app\\main\\default\\objects",
+            "sourcePath": "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation\\force-app\\main\\default\\objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1588646374603,
             "changeTime": 1588646374603,
-            "contentHash": "ecac7f1f5666742278b77a9205461de9c251ddaf"
+            "contentHash": "ecac7f1f5666742278b77a9205461de9c251ddaf",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
-        "C:\\workspace\\salesforce\\LightningExperienceCustomisation\\force-app\\main\\default\\objects\\Energy_Audit__c\\listViews",
+        "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation\\force-app\\main\\default\\objects\\Energy_Audit__c\\listViews",
         {
-            "state": "u",
-            "sourcePath": "C:\\workspace\\salesforce\\LightningExperienceCustomisation\\force-app\\main\\default\\objects\\Energy_Audit__c\\listViews",
+            "sourcePath": "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation\\force-app\\main\\default\\objects\\Energy_Audit__c\\listViews",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1588646374609,
             "changeTime": 1588646374609,
-            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6"
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
-        "C:\\workspace\\salesforce\\LightningExperienceCustomisation\\force-app\\main\\default\\layouts",
+        "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation\\force-app\\main\\default\\layouts",
         {
-            "state": "u",
-            "sourcePath": "C:\\workspace\\salesforce\\LightningExperienceCustomisation\\force-app\\main\\default\\layouts",
+            "sourcePath": "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation\\force-app\\main\\default\\layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1588646374623,
             "changeTime": 1588646374623,
-            "contentHash": "e2385db756911d767eccc4f716592abd9b87770a"
+            "contentHash": "e2385db756911d767eccc4f716592abd9b87770a",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
-        "C:\\workspace\\salesforce\\LightningExperienceCustomisation\\force-app\\main\\default\\tabs",
+        "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation\\force-app\\main\\default\\tabs",
         {
-            "state": "u",
-            "sourcePath": "C:\\workspace\\salesforce\\LightningExperienceCustomisation\\force-app\\main\\default\\tabs",
+            "sourcePath": "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation\\force-app\\main\\default\\tabs",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1588646374631,
             "changeTime": 1588646374631,
-            "contentHash": "2e2221ec173904653027696576ae6534a3f5191a"
+            "contentHash": "2e2221ec173904653027696576ae6534a3f5191a",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
-        "C:\\workspace\\salesforce\\LightningExperienceCustomisation\\force-app\\main\\default\\profiles",
+        "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation\\force-app\\main\\default\\profiles",
         {
-            "state": "u",
-            "sourcePath": "C:\\workspace\\salesforce\\LightningExperienceCustomisation\\force-app\\main\\default\\profiles",
+            "sourcePath": "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation\\force-app\\main\\default\\profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1588646374673,
             "changeTime": 1588646374673,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation\\force-app\\main\\default\\objects\\Energy_Audit__c\\fields\\Account__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation\\force-app\\main\\default\\objects\\Energy_Audit__c\\fields\\Account__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 510,
+            "modifiedTime": 1588674313885,
+            "changeTime": 1588674313885,
+            "contentHash": "4ec1d6bc599d53164be5e4822e6f08cc59ca8a56"
+        }
+    ],
+    [
+        "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation\\force-app\\main\\default\\objects\\Energy_Audit__c\\fields\\Annual_Energy_Usage_kWh__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation\\force-app\\main\\default\\objects\\Energy_Audit__c\\fields\\Annual_Energy_Usage_kWh__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 481,
+            "modifiedTime": 1588674313886,
+            "changeTime": 1588674313886,
+            "contentHash": "d7b350f0f8e667f82607fb4af3c6373222003d27"
+        }
+    ],
+    [
+        "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation\\force-app\\main\\default\\objects\\Energy_Audit__c\\fields\\Audit_Notes__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation\\force-app\\main\\default\\objects\\Energy_Audit__c\\fields\\Audit_Notes__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 355,
+            "modifiedTime": 1588674313886,
+            "changeTime": 1588674313886,
+            "contentHash": "fc6ba5b38fe4cbe791aa24587f9f0dbe6c977472"
+        }
+    ],
+    [
+        "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation\\force-app\\main\\default\\objects\\Energy_Audit__c\\fields\\Average_Annual_Electric_Cost__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation\\force-app\\main\\default\\objects\\Energy_Audit__c\\fields\\Average_Annual_Electric_Cost__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 470,
+            "modifiedTime": 1588674313887,
+            "changeTime": 1588674313887,
+            "contentHash": "c3d1a59e332b40c84cead5e67cecf9e26a4be8d9"
+        }
+    ],
+    [
+        "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation\\force-app\\main\\default\\objects\\Energy_Audit__c\\fields\\Type_of_Installation__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation\\force-app\\main\\default\\objects\\Energy_Audit__c\\fields\\Type_of_Installation__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1012,
+            "modifiedTime": 1588674313888,
+            "changeTime": 1588674313888,
+            "contentHash": "35fd1bf2f354c5a7773709f44d96936e26a651a6"
+        }
+    ],
+    [
+        "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation\\force-app\\main\\default\\objects\\Energy_Audit__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\workspace\\salesforce\\TrailheadPackages\\LightningExperienceCustomisation\\force-app\\main\\default\\objects\\Energy_Audit__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1588674313887,
+            "changeTime": 1588674313887,
+            "contentHash": "9fb31c1ddca34b6f754c1afb8bccd295a03c2a2c"
         }
     ]
 ]
