@@ -2,14 +2,15 @@
 <ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>US_State</fullName>
     <active>true</active>
-    <errorConditionFormula>LEN(State) &lt;&gt; 2 ||
+    <errorConditionFormula>NOT(ISBLANK(State)) &amp;&amp;
+(LEN(State) &lt;&gt; 2 ||
 NOT(
 CONTAINS(
 &quot;(AL)(AK)(AZ)(AR)(CA)(CO)(CT)(DE)(DC)(FL)(GA)(HI)(ID)&quot; &amp;
 &quot;(IL)(IN)(IA)(KS)(KY)(LA)(ME)(MD)(MA)(MI)(MN)(MS)(MO)(MT)(NE)(NV)(NH)&quot; &amp;
 &quot;(NJ)(NM)(NY)(NC)(ND)(OH)(OK)(OR)(PA)(RI)(SC)(SD)(TN)(TX)(UT)(VT)(VA)&quot; &amp;
 &quot;(WA)(WV)(WI)(WY)&quot;, &quot;(&quot; + State + &quot;)&quot;
-))</errorConditionFormula>
+)))</errorConditionFormula>
     <errorDisplayField>State</errorDisplayField>
     <errorMessage>Please specify a valid US State</errorMessage>
 </ValidationRule>
