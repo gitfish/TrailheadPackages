@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>US_Country</fullName>
+    <active>true</active>
+    <errorConditionFormula>NOT(
+ISBLANK(Country) || Country = &quot;US&quot; || Country = &quot;USA&quot; || Country = &quot;United States&quot;)</errorConditionFormula>
+    <errorDisplayField>Country</errorDisplayField>
+    <errorMessage>The country must be the United States</errorMessage>
+</ValidationRule>
