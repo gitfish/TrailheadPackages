@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Name_Change</fullName>
+    <active>true</active>
+    <description>Don&#39;t allow the account name to change if the type is &quot;Customer - Direct&quot; or &quot;Customer - Channel&quot;</description>
+    <errorConditionFormula>ISCHANGED(Name) &amp;&amp;
+(ISPICKVAL( Type, &#39;Customer - Direct&#39;) || ISPICKVAL(Type, &#39;Customer - Channel&#39;))</errorConditionFormula>
+    <errorDisplayField>Name</errorDisplayField>
+    <errorMessage>Name changes are not allowed for this Customer type.</errorMessage>
+</ValidationRule>
