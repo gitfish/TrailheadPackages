@@ -33,6 +33,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Opportunity.Approved__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Robot_Setup__c.Date__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -48,6 +53,9 @@
     </fieldPermissions>
     <layoutAssignments>
         <layout>Account-Account %28Sales%29 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Opportunity-Opportunity %28Sales%29 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Robot_Setup__c-Robot Setup Layout</layout>
